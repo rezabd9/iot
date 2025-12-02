@@ -39,7 +39,7 @@ Affiliation: PhD Research, University of Bradford, UK
 For full terms, see `/LICENSE` (or create one based on this notice). No warranties are provided.
 
 ## Acknowledgments
-- Supervised under the University of Bradford's IoT Systems Security program.
+- Supervised by Sohag Kabir, Ci Lei, Raluca Lefticaru , University of Bradford
 - Built on open-source tools like Arduino and academic frameworks for fault/attack tree analysis.
 - Feedback from advisors on dissertation revisions is incorporated.
 
